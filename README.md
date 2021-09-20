@@ -15,3 +15,5 @@ Under normal physiological conditions, the R1 in blood is influenced by many fac
 Existing models for blood R1 can account for SO2, haematocrit, and magnetic field strength (B0), but are not applicable under conditions of artificially increased PO2, or hyperoxic experiments. Therefore, we present a general model to estimate the R1 of blood, accounting for haematocrit, SO2, PO2, and B0 under both normal physiological and normobaric hyperoxic conditions.
 
 As a future direction of this work, we have hosted the open-source model code and a current list of blood R1 measurements on GitHub and invite the MRI community to share new blood R1 measurement results and refit the model to improve accuracy. Such a project would greatly improve this model as T1, Hct, SO2 and PO2 measurement methods continue to improve in accuracy over the years to come. 
+
+![](bloodbanner.png)
